@@ -6,12 +6,6 @@ Related paper
 
 This repository contains the implementation of a novel light-weight real-time network (CFPNet-Medicine: CFPNet-M) to segment different types of biomedical images. The dataset we used from top to bottom are **DRIVE, ISBI-2012, Infrared Breast, CVC-ClinicDB and ISIC 2018**.
 
-<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/Drive.jpg" width="500" height="215" alt="Result"/></div>
-<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/ISBI.jpg" width="500" height="175" alt="Result"/></div>
-<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/Infrared Breast.jpg" width="500" height="125" alt="Result"/></div>
-<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/Cvc-ClinicDB.jpg" width="500" height="150" alt="Result"/></div>
-<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/ISIC2018.jpg" width="500" height="150" alt="Result"/></div>
-
 ## Architecture of CFPNet-M
 ### CFP module
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/cfp module.png" width="750" height="300" alt="Result"/></div>
@@ -50,6 +44,12 @@ main.py
 ```
 
 ## Segmentation Results of Five datasets
+
+<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/Drive.jpg" width="500" height="215" alt="Result"/></div>
+<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/ISBI.jpg" width="500" height="175" alt="Result"/></div>
+<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/Infrared Breast.jpg" width="500" height="125" alt="Result"/></div>
+<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/Cvc-ClinicDB.jpg" width="500" height="150" alt="Result"/></div>
+<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/ISIC2018.jpg" width="500" height="150" alt="Result"/></div>
 
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/seg_table_1.png" width="700" height="600" alt="Result_table"/></div>
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/seg_table_2.png" width="675" height="600" alt="Result_table"/></div>
