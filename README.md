@@ -2,7 +2,7 @@ Related paper
 =============
 ### CFPNet-M: A Light-Weight Encoder-Decoder Based Network for Multimodal Biomedical Image Real-Time Segmentation
 
-[`Paper in Arxiv`](https://arxiv.org/ftp/arxiv/papers/2105/2105.04075.pdf)
+[`Paper in Arxiv`](https://arxiv.org/abs/2105.04075)
 
 This repository contains the implementation of a novel light-weight real-time network (CFPNet-Medicine: CFPNet-M) to segment different types of biomedical images. The dataset we used from top to bottom are **DRIVE, ISBI-2012, Infrared Breast, CVC-ClinicDB and ISIC 2018**.
 
