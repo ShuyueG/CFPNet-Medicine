@@ -13,16 +13,6 @@ This repository contains the implementation of a novel light-weight real-time ne
 ### CFPNet-M
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/fig 3.jpg" width="400" height="400" alt="Result"/></div>
 
-## Dataset
-
-In this project, we test five datasets:
-
-- [x] Infrared Breast Dataset
-- [x] Endoscopy (CVC-ClinicDB)
-- [x] Electron Microscopy (ISBI-2012)
-- [x] Drive (Digital Retinal Image)
-- [x] Dermoscopy (ISIC-2018)
-
 ## Usage
 
 ### Prerequisities
@@ -44,6 +34,14 @@ main.py
 ```
 
 ## Segmentation Results of Five datasets
+
+In this project, we test five datasets:
+
+- [x] Infrared Breast Dataset
+- [x] Endoscopy (CVC-ClinicDB)
+- [x] Electron Microscopy (ISBI-2012)
+- [x] Drive (Digital Retinal Image)
+- [x] Dermoscopy (ISIC-2018)
 
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/Drive.jpg" width="500" height="215" alt="Result"/></div>
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/ISBI.jpg" width="500" height="175" alt="Result"/></div>
