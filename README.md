@@ -4,7 +4,7 @@ Related paper
 
 [`Paper in Arxiv`](https://arxiv.org/abs/2105.04075)
 
-This repository contains the implementation of a novel light-weight real-time network (CFPNet-Medicine: CFPNet-M) to segment different types of biomedical images. The dataset we used from top to bottom are **DRIVE, ISBI-2012, Infrared Breast, CVC-ClinicDB and ISIC 2018**.
+This repository contains the implementation of a novel light-weight real-time network (CFPNet-Medicine or CFPNet-M) to segment different types of biomedical images. The dataset we used are **DRIVE, ISBI-2012, Infrared Breast, CVC-ClinicDB and ISIC 2018**.
 
 ## Architecture of CFPNet-M
 ### CFP module
